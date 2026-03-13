@@ -12,12 +12,12 @@ print("You also can type in the terminal.")
 name = input("\n---Type your name here, then press Enter---\n")
 
 print("\n\n")
-print(r"  _____ ____  __  __ _____    _______ _    _ _____ _   _ _  _______ _   _  _____    ___  ")
-print(r" / ____/ __ \|  \/  |  __ \  |__   __| |  | |_   _| \ | | |/ /_   _| \ | |/ ____|  / _ \ ")
-print(r"| |   | |  | | \  / | |__) |    | |  | |__| | | | |  \| | ' /  | | |  \| | |  __  | (_) |")
-print(r"| |   | |  | | |\/| |  ___/     | |  |  __  | | | | . ` |  <   | | | . ` | | |_ |  > _ < ")
-print(r"| |___| |__| | |  | | |         | |  | |  | |_| |_| |\  | . \ _| |_| |\  | |__| | | (_) |")
-print(r" \_____\____/|_|  |_|_|         |_|  |_|  |_|_____|_| \_|_|\_\_____|_| \_|\_____|  \___/ ")
+print(r"  _____ ____  __  __ _____    _______ _    _ _____ _   _ _  _______ _   _  _____    ___  ") _______
+print(r" / ____/ __ \|  \/  |  __ \  |__   __| |  | |_   _| \ | | |/ /_   _| \ | |/ ____|  / _ \ ") | _____\
+print(r"| |   | |  | | \  / | |__) |    | |  | |__| | | | |  \| | ' /  | | |  \| | |  __  | (_) |") ||      \
+print(r"| |   | |  | | |\/| |  ___/     | |  |  __  | | | | . ` |  <   | | | . ` | | |_ |  > _ < ") ||     | |
+print(r"| |___| |__| | |  | | |         | |  | |  | |_| |_| |\  | . \ _| |_| |\  | |__| | | (_) |") ||_____|/
+print(r" \_____\____/|_|  |_|_|         |_|  |_|  |_|_____|_| \_|_|\_\_____|_| \_|\_____|  \___/ ") \______/
 # text art from https://patorjk.com/software/taag/
 
 
@@ -27,4 +27,6 @@ print("\n\n")
                                                                                           
                                   
 print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("Find this line (line 30) I like to ski")    
+print("I like to play lacrosse")        
+print("I can jugle 4 balls") 
