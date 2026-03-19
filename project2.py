@@ -67,6 +67,7 @@ if answer4 == "A" or answer4 == "a":
      midfild_points += 2
 elif answer4 == "B" or answer4 == "b": 
      midfild_points += 1
+     atack_points += 1
 elif answer4 == "C" or answer4 == "c": 
      defence_points += 2
 
@@ -114,10 +115,10 @@ elif defence_points > midfild_points and defence_points >= atack_points:
      print(f"Your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
 elif atack_points == defence_points and atack_points == midfild_points: 
      print("You will do great at any position you please")
-     print(f"Your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
+     print(f"even though your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
 elif midfild_points == defence_points and midfild_points == atack_points: 
-     print("You will do great at any position you please")
-     print(f"Your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
+     print("you will do great at any position you please")
+     print(f"even though  your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
 elif defence_points == midfild_points and defence_points == atack_points: 
      print("You will do great at any position you please")
-     print(f"Your scrore was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
+     print(f"even though your score was {midfild_points} midfild points {defence_points} defence points and {atack_points} atack points.")
